@@ -2,6 +2,6 @@
 
 Codes used by Group 8 in the Study Project of topic Identification, Illustration, and Impact of Colmation Layer in G.W–SW Exchange are Uploaded here
 
-
+The cuurent version [![DOI](https://zenodo.org/badge/576731272.svg)](https://zenodo.org/badge/latestdoi/576731272)
 
 
