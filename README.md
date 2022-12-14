@@ -21,6 +21,8 @@ Codes developed were by part of the academic course work at [TU Dresden](https:/
 
 ![image](https://user-images.githubusercontent.com/86523952/207420463-0e320f97-4cab-4a95-975f-7afb711637fa.png)
 
+<img src="https://user-images.githubusercontent.com/86523952/207420463-0e320f97-4cab-4a95-975f-7afb711637fa.png" width="100" height="100">
+
 Word Cloud of Produced from meta data analysis of various abstracts 
 
 ![image](https://user-images.githubusercontent.com/86523952/207420668-0d3d5a76-a149-4496-9551-65ce389bf5de.png)
