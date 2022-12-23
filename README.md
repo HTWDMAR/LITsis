@@ -1,8 +1,8 @@
-# Literat_analysis
+# Litansis
 
-## Literature Analysis - what is it?
+## Litansis - what is it?
 
-**Literat_analysis** is a simple Python based tool for analyzing meta and functional trends for a set of **reserach articles** from [e.g., web of science](https://mjl.clarivate.com/home). Additionally, further a set of tools (sensitivity, visualization) to analyze the mathmatical formulations in those articles.
+**Litansis** is a simple Python based tool for analyzing meta and functional trends for a set of **reserach articles** from [e.g., web of science](https://mjl.clarivate.com/home). Additionally, further a set of tools (sensitivity, visualization) to analyze the mathmatical formulations in those articles.
 
 Codes developed were by part of the academic course work at [TU Dresden](https://tu-dresden.de/bu/umwelt/hydro/igw) and [HTW Dresden](https://www.htw-dresden.de/hochschule/fakultaeten/bauingenieurwesen/studium/lehrgebiete/wasserwesen). Basically, the codes allows to perform **meta analysis** and **functional analysis** of the research articles. 
 
