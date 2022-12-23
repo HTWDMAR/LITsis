@@ -10,7 +10,7 @@ Codes developed were by part of the academic course work at [TU Dresden](https:/
 
 ## Steps for using code 
 
-1. Make sure that you have Python installed in your system and the Python libraries provided in the [requirements.txt](https://github.com/HTWDMAR/Literat_analysis/blob/main/requirements.txt)
+1. Make sure that you have Python installed in your system and the Python libraries provided in the [requirements.txt](https://github.com/HTWDMAR/Litansis/blob/main/requirements.txt)
 2. Download the code as a zip file and extract it to any folder.
 3. From the folder, run the code using [VScode](https://code.visualstudio.com/) or any such IDE that can run Python.
 4. To conduct **Meta Analysis** you need to make sure the _csv_ file (of literature obtained from e.g., web of science) in which the data about all the research articles is in the simillar format as mentioned in the   code and name of all.
